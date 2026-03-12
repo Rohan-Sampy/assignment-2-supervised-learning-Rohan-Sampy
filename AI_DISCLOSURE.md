@@ -24,40 +24,31 @@ Do NOT:
 
 **Did you use any AI tools to help with this assignment?**
 
-_____ Yes     _____ No
+Yes I did.
 
 **If yes, please tell us:**
 
 1. **What tools did you use?** (e.g., ChatGPT, Claude, GitHub Copilot)
    
-   _________________________________________________________________
+   ChatGPT
 
 2. **What specific things did you ask them to do?** (Be specific)
    
-   _________________________________________________________________
-   
-   _________________________________________________________________
+  Mainly debugging, since it is faster than hoping to find answers in the labyrinths of Stack Exchange.
+  I also use AI to learn, so if I didn't understand a concept (like AUROC vs AUPRC), I asked Chat to explain it to me before proceeding with coding.
 
 3. **How much of your final code came from AI vs. your own work?** (e.g., "AI gave me the formula, I wrote the loop" or "AI helped me debug an error")
    
-   _________________________________________________________________
-   
-   _________________________________________________________________
+The code is all mine, I simply debugged it using Chat.
 
 4. **Can you explain your code?** (Can you walk through what each function does and why you wrote it that way?)
    
-   _____ Yes, I can explain it well
+Mostly, but I have some questions, but again, I can simply use Chat to answer those questions.
    
-   _____ Mostly, but I have some questions
-   
-   _____ No, I'm not sure I understand it
 
 **Additional comments:**
 
-_________________________________________________________________
-
-_________________________________________________________________
-
+I want to give my word that I used AI appropriately.
 ---
 
 ## Why This Matters
@@ -71,4 +62,4 @@ _________________________________________________________________
 
 ## Questions?
 
-If you're unsure whether your AI usage was appropriate, **ask your instructor before submitting**. We'd rather help you understand the guidelines than penalize you later.
+If you're unsure whether your AI usage was appropriate, **ask your instructor before submitting**. We'd rather help you understand the guidelines than penalize you later....
